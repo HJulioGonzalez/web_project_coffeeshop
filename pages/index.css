@@ -26,7 +26,7 @@ body {
   z-index: 0;
 }
 
-.header__title {
+.header__title-container {
   max-width: 729px;
   position: absolute;
   top: 183px;
@@ -61,7 +61,7 @@ body {
   color: #2f80ed;
 }
 
-.header__title-text {
+.header__title {
   margin: 0;
   font-weight: 500;
   font-size: 60px;
